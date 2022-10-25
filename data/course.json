@@ -1,0 +1,70 @@
+[
+  {
+    "category_id": "1",
+    "name": "Visual identity graphic design",
+    "image": "https://images.unsplash.com/photo-1531403009284-440f080d1e12?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "description": "Designers that specialize in visual identity graphic design collaborate with brand stakeholders to create assets like logos, typography, color palettes and image libraries that represent a brand’s personality. In addition to the standard business cards and corporate stationary, designers often develop a set of visual brand guidelines (style guides) that describe best practices and provide examples of visual branding applied across various media. These guidelines help to ensure brand consistency throughout future applications.",
+    "video": "82",
+    "quiz": "97",
+    "live_class": "9",
+    "support": "24/7",
+    "duration": "6",
+    "review": "4.6",
+    "teachers": {
+      "teacher_name": "Rex Hunter",
+      "teacher_img": "https://cdn.pixabay.com/photo/2017/01/31/21/23/avatar-2027366__340.png",
+      "teacher_title": "Visual Designer"
+    }
+  },
+  {
+    "category_id": "2",
+    "name": "Marketing & advertising graphic design",
+    "image": "https://images.unsplash.com/photo-1661956601349-f61c959a8fd4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+    "description": "Marketing designers work with company marketing professionals to create assets for marketing strategies",
+    "video": "62",
+    "quiz": "74",
+    "live_class": "14",
+    "support": "24/7",
+    "duration": "5",
+    "review": "4.8",
+    "teachers": {
+      "teacher_name": "Lindsey Rios",
+      "teacher_img": "https://cdn.pixabay.com/photo/2017/01/31/21/23/avatar-2027366__340.png",
+      "teacher_title": "Marketing Designer"
+    }
+  },
+  {
+    "category_id": "3",
+    "name": "User interface graphic design",
+    "image": "https://plus.unsplash.com/premium_photo-1661689077583-1f04fcdc7a81?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "description": "UI designers specialize in desktop apps, mobile apps, web apps and games. They work closely with UX designers and UI developers.",
+    "video": "112",
+    "quiz": "120",
+    "live_class": "28",
+    "support": "24/7",
+    "duration": "8",
+    "review": "4.3",
+    "teachers": {
+      "teacher_name": "Randall Graham",
+      "teacher_img": "https://cdn.pixabay.com/photo/2017/01/31/21/23/avatar-2027366__340.png",
+      "teacher_title": "Marketing Designer"
+    }
+  },
+  {
+    "category_id": "4",
+    "name": "Publication graphic design",
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "description": "Publication designers must possess excellent communication, layout and organizational skills.",
+    "video": "48",
+    "quiz": "50",
+    "live_class": "2",
+    "support": "24/7",
+    "duration": "3",
+    "review": "4.5",
+    "teachers": {
+      "teacher_name": "Dominic Holmes",
+      "teacher_img": "https://cdn.pixabay.com/photo/2017/01/31/21/23/avatar-2027366__340.png",
+      "teacher_title": "Marketing Designer"
+    }
+  }
+]
