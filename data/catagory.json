@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1",
+    "name": "Visual identity graphic design",
+    "image": "https://images.unsplash.com/photo-1531403009284-440f080d1e12?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "description": "Visual identity design is one of the most common types of design. all types of graphic design in order to create design",
+    "video": "82",
+    "quiz": "97",
+    "live_class": "9",
+    "support": "24/7",
+    "duration": "6"
+  },
+  {
+    "id": "2",
+    "name": "Marketing & advertising graphic design",
+    "image": "https://images.unsplash.com/photo-1661956601349-f61c959a8fd4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+    "description": "Marketing designers work with company marketing professionals to create assets for marketing strategies",
+    "video": "62",
+    "quiz": "74",
+    "live_class": "14",
+    "support": "24/7",
+    "duration": "5"
+  },
+  {
+    "id": "3",
+    "name": "User interface graphic design",
+    "image": "https://plus.unsplash.com/premium_photo-1661689077583-1f04fcdc7a81?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "description": "UI designers specialize in desktop apps, mobile apps, web apps and games. They work closely with UX designers and UI developers.",
+    "video": "112",
+    "quiz": "120",
+    "live_class": "28",
+    "support": "24/7",
+    "duration": "8"
+  },
+  {
+    "id": "4",
+    "name": "Publication graphic design",
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "description": "Publication designers must possess excellent communication, layout and organizational skills.",
+    "video": "48",
+    "quiz": "50",
+    "live_class": "2",
+    "support": "24/7",
+    "duration": "3"
+  },
+  {
+    "id": "5",
+    "name": "Packaging graphic design",
+    "image": "https://images.unsplash.com/photo-1519074002996-a69e7ac46a42?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "description": "Packaging designers may be a jack-of-all-trades or specialize in a specific type of packagingor a specific industry.",
+    "video": "71",
+    "quiz": "75",
+    "live_class": "5",
+    "support": "24/7",
+    "duration": "4"
+  },
+  {
+    "id": "6",
+    "name": "Motion graphic design",
+    "image": "https://images.unsplash.com/photo-1498075702571-ecb018f3752d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=878&q=80",
+    "description": "motion graphics are graphics that are in motion. Formally reserved for TV and film production time and costs.",
+    "video": "140",
+    "quiz": "146",
+    "live_class": "34",
+    "support": "24/7",
+    "duration": "10"
+  },
+  {
+    "id": "7",
+    "name": "Environmental graphic design",
+    "image": "https://images.unsplash.com/photo-1541462608143-67571c6738dd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "description": "environmental graphic design has produced static print pieces, but digital interactive displays continue to rise in engaging experience.",
+    "video": "92",
+    "quiz": "99",
+    "live_class": "20",
+    "support": "24/7",
+    "duration": "7"
+  },
+  {
+    "id": "8",
+    "name": "Art and illustration for graphic design",
+    "image": "https://images.unsplash.com/photo-1626785774573-4b799315345d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+    "description": "Graphic art and illustration are often seen as being the same as graphic design, however, they’re each very different",
+    "video": "220",
+    "quiz": "250",
+    "live_class": "52",
+    "support": "24/7",
+    "duration": "18"
+  }
+]
