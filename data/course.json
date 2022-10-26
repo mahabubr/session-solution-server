@@ -1,5 +1,6 @@
 [
   {
+    "id": "11111111111",
     "category_id": "1",
     "name": "Visual identity graphic design",
     "image": "https://images.unsplash.com/photo-1531403009284-440f080d1e12?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
@@ -17,10 +18,11 @@
     }
   },
   {
+    "id": "11111111112",
     "category_id": "2",
     "name": "Marketing & advertising graphic design",
     "image": "https://images.unsplash.com/photo-1661956601349-f61c959a8fd4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
-    "description": "Marketing designers work with company marketing professionals to create assets for marketing strategies",
+    "description": "Marketing designers work with company owners, directors, managers or marketing professionals to create assets for marketing strategies. They might work alone or as part of an in-house or creative team. Designers can specialize in a specific type of media (vehicle wraps or magazine ads, for example) or create a broad assortment of collateral for print, digital, and beyond. While traditionally print-centered, this type of design has grown to include more digital assets, especially for use in content marketing and digital advertising.",
     "video": "62",
     "quiz": "74",
     "live_class": "14",
@@ -34,10 +36,11 @@
     }
   },
   {
+    "id": "11111111113",
     "category_id": "3",
     "name": "User interface graphic design",
     "image": "https://plus.unsplash.com/premium_photo-1661689077583-1f04fcdc7a81?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-    "description": "UI designers specialize in desktop apps, mobile apps, web apps and games. They work closely with UX designers and UI developers.",
+    "description": "UI designers must be team players backed by both serious graphic design skills and an excellent understanding of UI/UX principles, responsive design and web development. In addition to graphics apps, they need knowledge of programming languages like HTML, CSS and JavaScript.",
     "video": "112",
     "quiz": "120",
     "live_class": "28",
@@ -51,10 +54,11 @@
     }
   },
   {
+    "id": "11111111114",
     "category_id": "4",
     "name": "Publication graphic design",
     "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-    "description": "Publication designers must possess excellent communication, layout and organizational skills.",
+    "description": "Publications are long-form pieces that communicate with an audience through public distribution. They have traditionally been a print medium. Publication design is a classic type of design—think books, newspapers, magazines and catalogs. However, there’s recently been a significant rise in digital publishing.",
     "video": "48",
     "quiz": "50",
     "live_class": "2",
@@ -65,6 +69,78 @@
       "teacher_name": "Dominic Holmes",
       "teacher_img": "https://cdn.pixabay.com/photo/2017/01/31/21/23/avatar-2027366__340.png",
       "teacher_title": "Marketing Designer"
+    }
+  },
+  {
+    "id": "11111111115",
+    "category_id": "5",
+    "name": "Packaging graphic design",
+    "image": "https://images.unsplash.com/photo-1519074002996-a69e7ac46a42?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "description": "Packaging designers create concepts, develop mockups and create the print-ready files for a product. This requires expert knowledge of print processes and a keen understanding of industrial design and manufacturing. Because packaging design touches so many disciplines, it’s not uncommon for designers to find themselves creating other assets for a product such as photography, illustrations and visual identity.",
+    "video": "71",
+    "quiz": "75",
+    "live_class": "5",
+    "support": "24/7",
+    "duration": "4",
+    "review": "4.9",
+    "teachers": {
+      "teacher_name": "Lindsey Rios",
+      "teacher_img": "https://cdn.pixabay.com/photo/2017/01/31/21/23/avatar-2027366__340.png",
+      "teacher_title": "Packaging Designer"
+    }
+  },
+  {
+    "id": "11111111116",
+    "category_id": "6",
+    "name": "Motion graphic design",
+    "image": "https://images.unsplash.com/photo-1498075702571-ecb018f3752d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=878&q=80",
+    "description": "“Motion graphics designer” is a somewhat new specialty for designers. Formally reserved for TV and film, technological advances have reduced production time and costs, making the art form more accessible and affordable. Now, motion graphics is one of the newest types of design and can be found across all digital platforms, which has created all sorts of new areas and opportunities.",
+    "video": "140",
+    "quiz": "146",
+    "live_class": "34",
+    "support": "24/7",
+    "duration": "10",
+    "review": "4.4",
+    "teachers": {
+      "teacher_name": "Randall Graham",
+      "teacher_img": "https://cdn.pixabay.com/photo/2017/01/31/21/23/avatar-2027366__340.png",
+      "teacher_title": "Motion Designer"
+    }
+  },
+  {
+    "id": "11111111117",
+    "category_id": "7",
+    "name": "Environmental graphic design",
+    "image": "https://images.unsplash.com/photo-1541462608143-67571c6738dd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "description": "Environmental graphic design is a multidisciplinary practice that merges graphic, architectural, interior, landscape and industrial design. Designers collaborate with people in any number of these fields to plan and implement their designs. Because of that, designers typically have education and experience in both graphic design and architecture. They must be familiar with industrial design concepts and able to read and sketch architectural plans.",
+    "video": "92",
+    "quiz": "99",
+    "live_class": "20",
+    "support": "24/7",
+    "duration": "7",
+    "review": "4.6",
+    "teachers": {
+      "teacher_name": "Lindsey Rios",
+      "teacher_img": "https://cdn.pixabay.com/photo/2017/01/31/21/23/avatar-2027366__340.png",
+      "teacher_title": "Environmental Designer"
+    }
+  },
+  {
+    "id": "11111111118",
+    "category_id": "8",
+    "name": "Art and illustration for graphic design",
+    "image": "https://images.unsplash.com/photo-1626785774573-4b799315345d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+    "description": "Graphic art and illustration are often seen as being the same as graphic design, however, they’re each very different. Designers create compositions to communicate and solve problems, graphic artists and illustrators create original artwork. Their art takes a number of forms, from fine art to decoration to storytelling illustrations.",
+    "video": "220",
+    "quiz": "250",
+    "live_class": "52",
+    "support": "24/7",
+    "duration": "18",
+    "review": "4.7",
+    "teachers": {
+      "teacher_name": "Lindsey Rios",
+      "teacher_img": "https://cdn.pixabay.com/photo/2017/01/31/21/23/avatar-2027366__340.png",
+      "teacher_title": "illustration Designer"
     }
   }
 ]
