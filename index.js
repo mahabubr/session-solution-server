@@ -22,6 +22,11 @@ app.get('/category/:id', (req, res) => {
     const selectedItem = courseItem.find(item => item.category_id === id)
     res.send(selectedItem)
 })
+
+app.get('/checkout', (req, res) => {
+    res.send(checkout)
+})
+
 app.get('/checkout/:id', (req, res) => {
     const id = req.params.id
     const selectedItem = checkout.find(item => item.id === id)
